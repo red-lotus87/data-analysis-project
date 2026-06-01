@@ -1,1 +1,1 @@
-# data-analysis-project
+# Tips-case-study
